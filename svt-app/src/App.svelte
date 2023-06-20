@@ -24,7 +24,8 @@
 					{"name":"Lionel Thomas","phone":"(771) 164-8768","country":"Spain"},
 					{"name":"Jasper Branch","phone":"(189) 337-1035","country":"Pakistan"},
 					{"name":"Nasim Carlson","phone":"(587) 554-0602","country":"Netherlands"},
-					{"name":"Armando Hicks","phone":"(446) 328-8617","country":"Pakistan"}
+					{"name":"Armando Hicks","phone":"(446) 328-8617","country":"Pakistan"},
+					{"name":"Michael jackson","phone":"(446) 555-8617","country":"United States"}
 				]
 	// people = []
 	// ---------------------------------------
